@@ -17,5 +17,5 @@ The purpose of this project is to create an Express JS application so a user is 
 
 
 ## Submission Requirements
-- [Deployed Application](https://github.com/ajayshans/README-generator/blob/main/sample/README-sample.md/)
+- [Deployed Application](https://thawing-shore-30319-0aea271d3fe5.herokuapp.com/)
 - [GitHub Repo](https://github.com/ajayshans/note-taker-app/)
