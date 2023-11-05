@@ -24,10 +24,9 @@ notes.post('/', (req, res) => {
         };
 
         readAndAppend(newNote, './db/db.json')
-        res.json()
 
         const response = {
-            status: 'status',
+            status: 'success',
             body: newNote
         };
         res.json(response);
