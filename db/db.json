@@ -2,20 +2,5 @@
     {
         "title": "Test Title",
         "text": "Test text"
-    },
-    {
-        "text": "test2",
-        "title": "Test2",
-        "id": "dc1a4ae4-7939-4dfa-9c2a-b08998d55616"
-    },
-    {
-        "text": "test3",
-        "title": "Test3",
-        "id": "13e5f31b-f9d4-43e5-9def-0b25df61f3dd"
-    },
-    {
-        "text": "test4",
-        "title": "Test4",
-        "id": "d65cb491-6a43-46a8-a95b-24703a4b82af"
     }
 ]
