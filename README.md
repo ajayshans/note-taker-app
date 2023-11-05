@@ -12,10 +12,10 @@ The purpose of this project is to create an Express JS application so a user is 
 - Ensure clicking on "New Note" leads to empty fields to enter new note in the right-hand column and button disappears
 
 ## Web Application Preview
-![Application Screenshot 1](images/readme-application-1.png)
-![Application Screenshot 2](images/readme-application-2.png)
+![Application Screenshot 1](images/note-taker-app-1.png)
+![Application Screenshot 2](images/note-taker-app-2.png)
 
 
 ## Submission Requirements
-- [Deployed Application](https://thawing-shore-30319-0aea271d3fe5.herokuapp.com/)
+- [Deployed Heroku Application](https://thawing-shore-30319-0aea271d3fe5.herokuapp.com/)
 - [GitHub Repo](https://github.com/ajayshans/note-taker-app/)
